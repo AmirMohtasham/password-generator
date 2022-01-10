@@ -9,7 +9,7 @@
 	pip install git+https://github.com/AmirMohtasham/password-generator
 
 
-## Examles
+## Examples
 ```
 from PasswordGenerator import generate_password
 
