@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [How To Install](#install)
-* [Examles](#examples)
+* [Examples](#examples)
 
 
 ## How To Install
